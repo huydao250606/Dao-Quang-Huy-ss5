@@ -1,0 +1,21 @@
+table {
+  width: 50%;
+}
+img {
+  width: 300px;
+  height: 150px;
+}
+.title {
+  font-weight: bold;
+  font-size: 20px;
+}
+.time {
+  font-weight: bold;
+}
+span {
+  color: gray;
+  font-size: 15px;
+}
+.tgia {
+  font-weight: 10px;
+}
