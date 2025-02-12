@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  align-items: center;
+  margin: 0;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 800px;
+  text-align: center;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.th,
+.td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.th {
+  background: #007bff;
+  color: white;
+}
+
+.td {
+  background: white;
+}
+
+.btn {
+  padding: 5px 10px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.view {
+  background: green;
+}
+
+.update {
+  background: orange;
+}
+
+.delete {
+  background: red;
+}
